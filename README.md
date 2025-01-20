@@ -7,5 +7,5 @@ This is my first experience with the Machine Learning Pipeline and Principles. T
  2) Prometheus
 This is the first real python project I've worked on, it was during my class 12th. This code is essentially a chatbot without Machine or Deep Learning principles, yet it is what sparked my interest in the subject. This project uses various python libraries to create a virtual assistant which acts like a lite version of siri or alexa, with voice command to open specific websites or to search the web.
 
-3) Pygame Projects
+3) Pygame 
 This folder contains a basic space invaders style game I have created using the Pygame library
